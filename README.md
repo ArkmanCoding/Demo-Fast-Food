@@ -1,4 +1,5 @@
-![images/Demo-img.png()
+
+
 <div align="center">
 
 # 🍔 منو فست فود نه تاب دونر
@@ -21,7 +22,7 @@
 
 <br><br>
 
-<img src="./preview.png" alt="تصویر پیش‌نمایش منوی فست فود نه تاب دونر" width="850">
+<img src="./images/Demo-img.png" alt="تصویر پیش‌نمایش منوی فست فود نه تاب دونر" width="850">
 
 </div>
 
